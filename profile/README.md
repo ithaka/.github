@@ -32,4 +32,4 @@ ITHAKA believes that technology empowers us to innovate and achieve our mission.
 
 ## Join our team
 
-See [what it's like to work at ITHAKA](https://www.ithaka.org/working-here/) and apply for one of our [available technology positions](https://recruiting.ultipro.com/ITH1000ITHAK/JobBoard/5fe90ad4-9e26-490b-9c45-6c9669d4dcd0/?q=&o=postedDateDesc&f5=YkD86gpIZ0eDSH64V4KasA).
+See [what it's like to work at ITHAKA](https://www.ithaka.org/working-here/) and apply for one of our [available technology positions](https://www.ithaka.org/careers/).
