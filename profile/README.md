@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.ithaka.org">
-        <img width="750" alt="ITHAKA, JSTOR, Constellate, Artstor, Portico, and ITHAKA S+R logos" src="https://github.com/ithaka/.github/blob/master/profile/ITHAKA.png?raw=true" />
+        <img width="750" alt="ITHAKA, JSTOR, Constellate, Artstor, Portico, and ITHAKA S+R logos" src="https://github.com/ithaka/.github/blob/main/profile/ITHAKA.png?raw=true" />
     </a>
 </div>
 
