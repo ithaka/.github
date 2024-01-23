@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.ithaka.org">
-        <img width="750" alt="ITHAKA, Artstor, ITHAKA S+R, JSTOR, and Portico logos" src="https://github.com/ithaka/.github/blob/master/profile/ITHAKA.png?raw=true" />
+        <img width="750" alt="ITHAKA, JSTOR, Constellate, Artstor, Portico, and ITHAKA S+R logos" src="https://github.com/ithaka/.github/blob/master/profile/ITHAKA.png?raw=true" />
     </a>
 </div>
 
@@ -18,6 +18,7 @@ We help make higher education and access to knowledge more affordable; we improv
 - [**Artstor**](https://www.artstor.org): Media for teaching and learning from the world's leading museums, artists, and scholars
 - [**Portico**](https://www.portico.org): Community-supported preservation of e-journals, e-books, and digital collections
 - [**ITHAKA S+R**](https://sr.ithaka.org): Collaborative strategies and research for higher education and the arts
+- [**Constellate**](https://constellate.org): Teach, learn, and perform text analysis
 
 ## Our technology
 
@@ -28,7 +29,6 @@ ITHAKA believes that technology empowers us to innovate and achieve our mission.
 * Reactive client-side frameworks like Vue and React
 * Continuous integration and delivery on a cloud-native platform
 * GraphQL, Hasura, and Apollo
-* [Text data mining](https://constellate.org/)
 
 ## Join our team
 
